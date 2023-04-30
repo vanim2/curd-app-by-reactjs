@@ -28,7 +28,7 @@ function Home() {
             .catch(error => {
               console.error(error);
             });
-            
+            //function to delete
     }}
   return (
     
