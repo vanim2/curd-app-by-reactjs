@@ -1,0 +1,43 @@
+{
+    "users": [{
+            "id": "D6BNdWnHI",
+            "name": "Brad Gibson",
+            "company": "YouTube",
+            "email": "brad@gmail.com",
+            "website": "Youtuber",
+            "phone": "9876546787",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+            "groupId": "3"
+        },
+        {
+            "id": "TVobxeKbI",
+            "name": "Glenda Kim",
+            "company": "Friend",
+            "email": "glenda@gmail.com",
+            "website": "freelancer",
+            "phone": "8880009991",
+            "photo": "https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png",
+            "groupId": "2"
+        },
+        {
+            "id": "UyEDV5Yds",
+            "name": "Vladeen updated",
+            "company": "Service",
+            "email": "vladeen@gmail.com",
+            "website": "Electrician",
+            "phone": "9876546787",
+            "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+            "groupId": "4"
+        },
+        {
+            "name": "Rajan",
+            "photo": "https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/User-icon.png",
+            "phone": "9090909090",
+            "email": "rajan@gmail.com",
+            "company": "HCL Technologies",
+            "website": "Software Engineer",
+            "groupId": "1",
+            "id": "kLt-bJF"
+        }
+    ]
+}
