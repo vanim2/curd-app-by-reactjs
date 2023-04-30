@@ -12,6 +12,7 @@ function Home() {
             setData(res.data)})
                 .catch(err=>{
             console.log(err)});
+            // getting users data
     }, []);
     
     const handleDelete = id =>{
